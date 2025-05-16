@@ -1,2 +1,2 @@
-# robert-frost-os
-⚗️ This is by far my favorite project. Here we reimagine the 90's Microsoft Bob with a modern skeuomorphic twist, exploring the potential of this design philosophy today.
+# The Robert Frost OS
+⚗️ This is my favourite project and a skeumorphic renaissance. It is a vibrant reimagining of Microsoft Bob, where the quirky charm of 90's digital companionship meets the sumptuous tactility of modern skeuomorphism. This project isn't just a nostalgic echo; it's a bold exploration into how a beloved, misunderstood design philosophy can redefine our digital interactions today, blending delightful familiarity with fresh, intuitive elegance.
